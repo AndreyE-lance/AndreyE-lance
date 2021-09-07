@@ -14,6 +14,7 @@
 - работал со SpringMVC
 - работал со SpringBoot
 - работал с Thymeleaf
+- работал с Liquibase
 - есть небольшой опыт написания RESTfull сервисов(SpringBoot, OpenApi) 
 - не теряюсь в Linux, использую Xubuntu основной ОС.
 
